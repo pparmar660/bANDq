@@ -1,0 +1,57 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.maginsoft.mfilechooser": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "com.vliesaputra.deviceinformation": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-filepath": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-spinner-dialog": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.intro.intro"
+        },
+        "com.phonegap.plugins.PushPlugin": {
+            "PACKAGE_NAME": "com.intro.intro"
+        }
+    },
+    "dependent_plugins": {}
+}
